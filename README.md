@@ -25,6 +25,12 @@ The housing data folder contains the CSVs as originally uploaded. Housing the ho
 
 **Steps**
 
+Counts of Genres
+Genre Groupby
+Sales Sums
+Min and Max values
+Creating Bins
+Adding new columns
 -Fork this repo
 
 -Open the Google Colab Notebook house_analysis.ipynb notebook
