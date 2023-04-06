@@ -26,14 +26,15 @@ The housing data folder contains the CSVs as originally uploaded. Housing the ho
 **Steps**
 
 -Fork this repo
+
 -Open the Google Colab Notebook house_analysis.ipynb notebook
+
 -(Requirement: must have a Gmail acocunt to use Google Drive)
+
 -Download the housingtwo.csv file locally 
+
 -Upload the CSV file to your Google Drive by going to file folder to your left -> MyDrive -> Colab Notebooks 
+
 -Click the folder icon with up arrow then select the housingtwo.csv file to upload
+
 -Hit the "X" on upload window and run program
-
-
-
-
-
