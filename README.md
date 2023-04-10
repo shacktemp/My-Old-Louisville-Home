@@ -6,7 +6,7 @@ Data analysis of the how different demographics have access to home mortgage loa
 
 **Background**
 
-How accessible is housing in Louisville? That is a important way to way to see how the economic healther of the area. To help answer this question we will be using CSVs data from Consumer Financial Protection Bureau. We will use that infomation to compare home ownership across demographics to find what the average home owner profile is.  Some features we will use are:
+How accessible is housing in Louisville? That is a important way to evaluate the economic health of the area. To help answer this question we will be using CSVs data from Consumer Financial Protection Bureau. We will use that infomation to compare home ownership across demographics to find what the average home owner profile is.  Some features we will use are:
 
   1. Create a Google Colab notebook use as the environment for the project
   2. Read in data from a download CSV file
